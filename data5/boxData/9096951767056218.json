@@ -1,0 +1,9 @@
+{
+    "bannedWords": [
+        "ngu"
+    ],
+    "warnings": {
+        "61562004788243": 3
+    },
+    "enabled": true
+}
